@@ -1,4 +1,4 @@
-#### Проект api_yatube реализовывает API для всех моделей приложения [Yatube](https://github.com/juko27/hw05_final)
+### Проект api_yatube реализовывает API для всех моделей приложения [Yatube](https://github.com/juko27/hw05_final)
 
 #### API доступен только аутентифицированным пользователям (аутентификацию происходит по токену TokenAuthentication).
 
